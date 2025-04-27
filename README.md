@@ -58,3 +58,6 @@ The Personal Health and Fitness Tracker Dashboard serves as a powerful tool for 
 
 - Inspired by personal health and fitness goals.
 - Thanks to the Tableau community for resources and support.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Personal-Health-and-Fitness-Tracker-Dashboard/blob/main/LICENSE) file for details.
